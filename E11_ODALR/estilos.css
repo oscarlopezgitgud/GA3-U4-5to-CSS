@@ -1,0 +1,25 @@
+/* Prof. Christian */
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+}
+#contenedor {
+  width: 900px;
+  margin: 0 auto;
+}
+#cabecera {
+  background-color: #003366;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+#contenido {
+  background-color: #ffffff;
+  padding: 20px;
+}
+#pie {
+  background-color: #333333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
